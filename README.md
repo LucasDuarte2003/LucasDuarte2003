@@ -5,7 +5,7 @@
 
 🎓 BSc in Informatics & Multimedia Engineering — ISEL (2022–2026)
 📍 Torres Vedras / Lisbon, Portugal
-💼 Open to junior Software / ML Engineering roles
+💼 Open to junior Software / AI Engineering roles
 
 ### 🚀 Featured project
 **[Criminal Entity Correlation (CEC)](https://github.com/LucasDuarte2003/LEIM_65_2526-Criminal-Entity-Correlation)** — final project, graded **19/20**.
